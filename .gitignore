@@ -8,6 +8,16 @@ __pycache__/
 venv/
 env/
 
+#Package
+package-lock.json
+package.json
+
+#Ignorar a pasta node_modules
+node_modules/
+
+#Ignorar o arquivo db.json
+db/db.json
+
 # Configurações do IDE
 .idea/
 .vscode/
